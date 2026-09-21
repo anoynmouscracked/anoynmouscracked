@@ -24,4 +24,4 @@ I learn in public and document everything I do.
 `Linux` `Bash` `Python` `Burp Suite` `Wireshark` `Git`
 
 ## 📫 Reach me
-LinkedIn: < https://www.instagram.com/hunt.editz._?utm_source=qr&stkn=MXBkeDhxb3F2aGo5eQ== >
+  Instagram: < https://www.instagram.com/hunt.editz._?utm_source=qr&stkn=MXBkeDhxb3F2aGo5eQ== >
