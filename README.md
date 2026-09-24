@@ -1,7 +1,6 @@
 # Hi, I'm anoynmous 👋
 
 Security learner focused on **web/API security** and **AI red teaming**, with a **finance + maths** background.
-I learn in public and document everything I do.
 
 ---
 
