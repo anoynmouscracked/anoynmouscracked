@@ -11,8 +11,7 @@ I learn in public and document everything I do.
 - Long-term goal: AI red teaming and bug bounty
 
 ## 🗺️ Roadmap
-- [x] OverTheWire Bandit, levels 0-15
-- [ ] Finish Bandit
+- [x] Finish Bandit
 - [ ] TryHackMe Pre-Security
 - [ ] PortSwigger Academy: SQLi, XSS, auth, access control
 - [ ] First VDP report
